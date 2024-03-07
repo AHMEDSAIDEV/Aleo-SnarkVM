@@ -79,7 +79,7 @@ Now to use `snarkvm`, in your terminal, run:
 snarkvm
 ```
 
-## 3. Usage Guide
+## 3. Usage Guideg
 
 ## 4. License
 
